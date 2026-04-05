@@ -1,4 +1,4 @@
-Papa.parse("../data.csv", {
+Papa.parse("/DB/data.csv", {
     download: true,
     header: true, // Set to true if your CSV has a header row
     skipEmptyLines: true,
