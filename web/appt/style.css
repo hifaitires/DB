@@ -1,0 +1,60 @@
+.calendar-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    overflow-x: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .day-column {
+    min-width: 140px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    border: 1px solid #e0e0e0;
+    flex-shrink: 0; /* Prevents columns from squishing */
+  }
+  
+  .day-header {
+    background: #2d3436;
+    color: #fab1a0; /* High contrast date color */
+    padding: 12px;
+    font-weight: 800;
+    border-radius: 11px 11px 0 0;
+    letter-spacing: 1px;
+  }
+  
+  .time-slots {
+    padding: 10px;
+  }
+  
+  .slot {
+    margin: 6px 0;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #444;
+    background: #ffffff;
+    border: 1px solid #dcdde1;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  /* Hover effect for available slots */
+  .slot:hover {
+    background: #0984e3;
+    color: white;
+    border-color: #0984e3;
+    transform: translateY(-1px);
+  }
+  
+  /* Style for slots that are already taken */
+  .slot.booked {
+    background: #dfe6e9;
+    color: #b2bec3;
+    cursor: not-allowed;
+    border-color: #dfe6e9;
+    text-decoration: line-through;
+  }
