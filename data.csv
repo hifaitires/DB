@@ -179,10 +179,10 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2356017;DOVROAD;235/60R17;All-season;YS716;12;100.0;235/60R17 106H XL DOVROAD URBAN PRIMOR YS716 SUV H/T M+S 580/A/A;
 2456517;DOVROAD;245/65R17;All-season;YS716;4;115.0;245/65R17 111H XL DOVROAD URBAN PRIMRO YS716 SUV H/T M+S 580/A/A;
 2356516;ILINK;235/65R16;All-season;L-MAX9;8;115.0;235/65R16C 115/113R 8PLY ILINK L-MAX9 69PSI;
-2356518;ANCHEE;235/65R18;All-season;AC828;4;115.0;235/65R18 110H XL ANCHEE AC828 SUV M+S 520/A/A;
+2356518;ANCHEE;235/65R18;All-season;AC828;4;115.0;235/65R18 110H XL ANCHEE AC828 SUV M+S 520/A/A;Size: 235/65R18 # Speed rating / load index: 110H XL # Make: ANCHEE # Model: AC828 # Service Description: M+S (Mud and Snow) SUV (Service/Sport Utility Vehicle) # Treadwear (520) Traction (A) Temperature (A) # Price: 460$ for the set of four tires. 560$ with install and balance for the four tires.
 2155518;ILINK;215/55R18;All-season;THUNDER U09;8;92.0;215/55R18 99V ILINK THUNDER U09 UHP M+S 400/A/A;
 2454518;ANCHEE;245/45R18;All-season;AC818;4;102.0;245/45R18 100W XL ANCHEE AC818 UHP M+S 480/A/A;
-2354519;ANCHEE;235/45R19;All-season;AC828;12;102.0;235/45R19 99W XL ANCHEE AC828 M+S 520/A/A;
+2354519;ANCHEE;235/45R19;All-season;AC828;12;105.0;235/45R19 99W XL ANCHEE AC828 M+S 520/A/A;Size: 235/45R19 # Speed rating / load index: 99W XL # Make: ANCHEE # Model: AC828 # Service Description: M+S (Mud and Snow) # Treadwear (520) Traction (A) Temperature (A) # Price: 420$ for the set of four tires. 520$ with install and balance for the four tires.
 3054022;ILINK;305/40R22;All-season;SPEEKDING 07;8;160.0;305/40R22 114V XL ILINK SPEEKDING 07 UHP M+S 400/A/A;
 2254517;ANCHEE;225/45R17;All-season;AC818;8;82.0;225/45R17 94W XL ANCHEE AC818 M+S UHP 480/A/A;
 2255519;ILINK;225/55R19;All-season;THUNDER U09;8;106.0;225/55R19 99V ILINK THUNDER U09 M+S 400/A/A;
@@ -217,3 +217,4 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2055516;KAPSEN;205/55ZR16;All-season;H2000 SportMax XAS;4;75.0;205/55ZR16 91W KAPSEN H2000 SportMax XAS 420/A/A;
 2156017;ONYX;215/60R17;All-season;NY-HP187;4;92.0;215/60R17 96H ONYX NY-HP187 M+S;
 2454019;KAPSEN;245/40ZR19;All-season;S2000;4;105.0;245/40ZR19 98Y XL KAPSEN S2000 UHP;
+2355018;KAPSEN;235/50R18;All-season;RS21 PracticalMax;0;110.0;235/50R18 101H XL KAPSEN RS21 PracticalMax H/T 500/A/A;Size: 235/50R18 # Speed rating / load index: 101H XL # Make: KAPSEN # Model:  RS21 PracticalMax # Service Description: M+S (Mud and Snow) H/T (Highway-Terrain or Highway-Tread) # Treadwear (500) Traction (A) Temperature (A) # Price: 440$ for the set of four tires. 540$ with install and balance.
