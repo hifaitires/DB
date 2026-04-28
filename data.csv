@@ -2,7 +2,7 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 1856515;GREENTRAC;185/65R15;All-weather;SEASON MASTER;0;70.0;185/65R15 92H XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;
 1956015;GREENTRAC;195/60R15;ALL-weather;SEASON MASTER;4;73.0;195/60R15 88V GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;
 1956515;GREENTRAC;195/65R15;ALL-weather;SEASON MASTER;4;77.0;195/65R15 95H XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;
-2055516;GREENTRAC;205/55R16;All-weather;SEASON MASTER;8;85.0;205/55R16 94V XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;Size: 205/55R16 Speed rating / load index: 94V XL Make: GreenTrac Model: Season Master Service Description: Three-Peak Mountain Snowflake (3PMSF or 3PMS) ALL-WEATHER UTQG Ratings: Treadwear (420) Traction (A) Temperature (A) Price: 320$ for the set of four tires. 420$ with install and balance for the four tires.
+2055516;GREENTRAC;205/55R16;All-weather;SEASON MASTER;4;85.0;205/55R16 94V XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;Size: 205/55R16 Speed rating / load index: 94V XL Make: GreenTrac Model: Season Master Service Description: Three-Peak Mountain Snowflake (3PMSF or 3PMS) ALL-WEATHER UTQG Ratings: Treadwear (420) Traction (A) Temperature (A) Price: 320$ for the set of four tires. 420$ with install and balance for the four tires.
 2155516;GREENTRAC;215/55R16;ALL-weather;SEASON MASTER;4;87.0;215/55R16 97V XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;
 2155517;GREENTRAC;215/55R17;All-weather;SEASON MASTER;5;97.0;215/55R17 98V XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;
 2254517;GREENTRAC;225/45R17;All-weather;SEASON MASTER;0;94.0;225/45R17 94W XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;
@@ -146,8 +146,8 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2055017;ILINK;205/50R17;All-season;THUNDER U09;0;80.0;205/50R17 93W XL ILINK THUNDER U09 UHP M+S 400/A/A;
 1856515;ANCHEE;185/65R15;All-season;AC808;8;64.0;185/65R15 88T ANCHEE AC808 M+S 420/A/A;
 1856515;SURETRAC;185/65R15;All-season;COMFORTRIDE GP;4;67.0;185/65R15 88H SURETRAC COMFORTRIDE GP M+S 400/A/A;
-2156516;ILINK;215/65R16;All-season;POWERCITY 79;4;90.0;215/65R16 98H XL ILINK POWERCITY 79 M+S 460/A/A;
-2255017;ILINK;225/50R17;All-season;THUNDER U09;3;98.0;225/50R17 98W XL ILINK THUNDER U09 UHP M+S 400/A/A;
+2156516;ILINK;215/65R16;All-season;POWERCITY 79;0;90.0;215/65R16 98H XL ILINK POWERCITY 79 M+S 460/A/A;
+2255017;ILINK;225/50R17;All-season;THUNDER U09;1;98.0;225/50R17 98W XL ILINK THUNDER U09 UHP M+S 400/A/A;
 2256016;ILINK;225/60R16;All-season;L-GRIP55;4;89.0;225/60R16 102V XL ILINK L-GRIP55 PCR M+S 420/A/A;
 2356516;SURETRAC;235/65R16;All-weather;AWT;4;122.0;235/65R16C 121/119R 10PR (84PSI) SURETRAC WIDER CLIMBER AWT - ALL WEATHER TRACTION;
 2453520;ILINK;245/35R20;All-season;L-ZEAL56;4;105.0;245/35R20 95W ILINK L-ZEAL56 UHP M+S 300/A/A;
@@ -161,7 +161,7 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 1956015;ANCHEE;195/60R15;All-season;AC808;8;64.0;195/60R15 88H ANCHEE AC808 M+S 420/A/A;
 2155516;ILINK;215/55R16;All-season;L-GRIP66;12;78.0;215/55R16 93V ILINK L-GRIP66 PCR M+S 420/A/A;
 2154517;GREENTRAC;215/45R17;All-weather;Season Master;4;90.0;215/45R17 91W XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;
-2354018;ONYX;235/40R18;All-season;NY-901;20;92.0;235/40R18 95WXL ONYX NY-901 M+S;
+2354018;ONYX;235/40R18;All-season;NY-901;18;92.0;235/40R18 95WXL ONYX NY-901 M+S;
 2157016;ONYX;215/70R16;All-season;NY-HT187;8;95.0;215/70R16 100H ONYX NY-HT187 M+S;
 2454018;KAPSEN;245/40ZR18;All-season;H2000;4;98.0;245/40ZR18 97W XL KAPSEN H2000 UHP A/S;
 2055016;KAPSEN;205/50ZR16;All-season;H2000;4;78.0;205/50ZR16 87W KAPSEN H2000 UHP A/S;
@@ -218,7 +218,7 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2156017;ONYX;215/60R17;All-season;NY-HP187;4;92.0;215/60R17 96H ONYX NY-HP187 M+S;
 2454019;KAPSEN;245/40ZR19;All-season;S2000;0;105.0;245/40ZR19 98Y XL KAPSEN S2000 UHP;Size: 245/40ZR19 # Speed rating / load index: 98Y XL # Make: KAPSEN # Model: S2000 # Service Description: UHP (Ultra-High Performance) # Price: 420$ for the set of four tires. 520$ with install and balance.
 2355018;KAPSEN;235/50R18;All-season;RS21 PracticalMax;0;110.0;235/50R18 101H XL KAPSEN RS21 PracticalMax H/T 500/A/A;Size: 235/50R18 # Speed rating / load index: 101H XL # Make: KAPSEN # Model:  RS21 PracticalMax # Service Description: M+S (Mud and Snow) H/T (Highway-Terrain or Highway-Tread) # Treadwear (500) Traction (A) Temperature (A) # Price: 440$ for the set of four tires. 540$ with install and balance.
-2355018;ILINK;235/50R18;All-season;THUNDER U09;4;100.0;235/50R18 97V ILINK THUNDER U09 UHP M+S 400/A/A;Size: 235/50R18 # Speed rating / load index: 97V # Make: ILINK # Model: THUNDER U09 # Service Description: M+S (Mud and Snow) UHP (Ultra-High Performance) # Treadwear (440) Traction (A) Temperature (A) # Price: 400$ for the set of four tires. 500$ with install and balance.
+2355018;ILINK;235/50R18;All-season;THUNDER U09;2;100.0;235/50R18 97V ILINK THUNDER U09 UHP M+S 400/A/A;Size: 235/50R18 # Speed rating / load index: 97V # Make: ILINK # Model: THUNDER U09 # Service Description: M+S (Mud and Snow) UHP (Ultra-High Performance) # Treadwear (440) Traction (A) Temperature (A) # Price: 400$ for the set of four tires. 500$ with install and balance.
 2356016;ILINK/ZMAX;235/60R16;All-season;POWERCITY 79;0;97.0;235/60R16 100H ILINK/ZMAX POWERCITY 79 H/T M+S 420/A/A;Size: 235/60R16 # Speed rating / load index: 100H # Make: ILINK/ZMAX # Model: POWERCITY 79 # Service Description: M+S (Mud and Snow) H/T (Highway-Terrain or Highway-Tread) # Treadwear (420) Traction (A) Temperature (A) # Price: 400$ for the set of two tires. 500$ with install and balance.
 2254518;GREENTRAC;225/45R18;All-weather;SEASON MASTER;0;98.0;225/45R18 95W GREENTRAC SEASON MASTER 3PMS ALL-WEATHER 420/A/A;Size: 225/45R18 # Speed rating / load index: 95W # Make: GREENTRAC # Model: SEASON MASTER # Service Description: M+S (Mud and Snow) OWL Three-Peak Mountain Snowflake (3PMSF or 3PMS) ALL-WEATHER # Price: 400$ for the set of four tires. 500$ with install and balance.
 2453519;ILINK;245/35R19;All-season;L-ZEAL56;4;100.0;245/35R19 93W XL ILINK L-ZEAL56 UHP M+S 300/A/A;
