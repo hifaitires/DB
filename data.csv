@@ -16,7 +16,7 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2056016;GREENTRAC;205/60R16;ALL-weather;SEASON MASTER;4;82.0;205/60R16 96V XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;
 1956515;ILINK;195/65R15;All-season;L-GRIP55;1;72.0;195/65R15 95T XL ILINK L-GRIP55 PCR M+S 400/A/A;
 2154518;ILINK;215/45R18;All-season;THUNDER U09;4;90.0;215/45R18 93W XL ILINK THUNDER U09 UHP M+S 400/A/A;
-2256017;ILINK;225/60R17;All-season;POWERCITY 79;12;97.0;225/60R17 99H ILINK POWERCITY 79 H/T M+S 420/A/A;
+2256017;ILINK;225/60R17;All-season;POWERCITY 79;8;97.0;225/60R17 99H ILINK POWERCITY 79 H/T M+S 420/A/A;
 2154517;ANCHEE;215/45R17;All-season;AC818;0;80.0;215/45R17 91W XL ANCHEE AC818 UHP M+S 480/A/A;
 2455020;ANCHEE;245/50R20;All-season;AC828;4;120.0;245/50R20 102V ANCHEE AC828 SUV M+S 520/A/A;
 2454020;ANCHEE;245/40R20;All-season;AC818;4;105.0;245/40R20 99Y XL ANCHEE AC818 UHP M+S 480/A/A;
@@ -31,7 +31,7 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 1956515;JOYROAD;195/65R15;All-season;RX3;8;76.0;195/65R15 91V JOYROAD RX3;
 2155516;JOYROAD;215/55R16;All-season;RX6;0;80.0;215/55R16 97W XL JOYROAD RX6;
 2055516;KAPSEN;205/55R16;All-season;H202;0;74.0;205/55R16 91V KAPSEN H202 ComfortMax AS 440/A/A;
-2256517;KAPSEN;225/65R17;All-season;RS21;14;100.0;225/65R17 102H KAPSEN RS21 PCR;
+2256517;KAPSEN;225/65R17;All-season;RS21;4;100.0;225/65R17 102H KAPSEN RS21 PCR;
 2356517;KAPSEN;235/65R17;All-season;RS21;26;103.0;235/65R17 108H XL KAPSEN RS21 SUV H/T;
 2154517;KINFOREST;215/45R17;All-season;KF7;12;95.0;215/45R17 91W XL KF7 KINFOREST UHP M+S 500/A/A - MADE IN THAILAND;
 2354518;KINFOREST;235/45R18;All-season;KF7;2;110.0;235/45R18 98W XL KINFOREST KF7 UHP M+S 500/A/A - MADE IN THAILAND;
@@ -199,7 +199,7 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2156017;GreenTrac;215/60R17;All-weather;Season Master;4;96.0;215/60R17 100V XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;Size: 215/60R17 # Speed rating / load index: 100V XL # Make: GreenTrac # Model: Season Master # Service Description: Three-Peak Mountain Snowflake (3PMSF or 3PMS) # UTQG Ratings: Treadwear (420) Traction (A) Temperature (A) # Price: 400$ for the set of four tires. 500$ with install and balance for the four tires
 2354518;ANCHEE;235/45R18;All-season;AC818;0;97.0;235/45R18 98W XL ANCHEE AC818 UHP M+S 480/A/A;Size: 235/45R18 # Speed rating / load index: 98W XL # Make: ANCHEE # Model: AC818 # Service Description: M+S (Mud and Snow) PCR (Passenger Car Radial) # Treadwear (480) Traction (A) Temperature (A) # Price: 400$ for the set of four tires. 500$ with install and balance.
 2254518;ANCHEE;225/45R18;All-season;AC818;8;92.0;225/45R18 95W XL ANCHEE AC818 UHP M+S 480/A/A;Size: 225/45R18 # Speed rating / load index: 95W XL # Make: ANCHEE # Model: AC818 # Service Description: M+S (Mud and Snow) UHP (Ultra-High Performance) - All Season # UTQG Ratings: Treadwear (480) Traction (A) Temperature (A) # Price: 370$ for the set of four tires. 470$ with install and balance for the four tires.
-2254018;ANCHEE;225/40R18;All-season;AC818;8;88.0;225/40R18 92W XL ANCHEE AC818 M+S 480/A/A;Size: 225/40R18 # Speed rating / load index: 92W # Make: ANCHEE # Model: AC818 # Service Description: M+S (Mud and Snow) # Treadwear (480) Traction (A) Temperature (A) # Price: 350$ for the set of four tires, and 450$ with install and balance.
+2254018;ANCHEE;225/40R18;All-season;AC818;4;88.0;225/40R18 92W XL ANCHEE AC818 M+S 480/A/A;Size: 225/40R18 # Speed rating / load index: 92W # Make: ANCHEE # Model: AC818 # Service Description: M+S (Mud and Snow) # Treadwear (480) Traction (A) Temperature (A) # Price: 350$ for the set of four tires, and 450$ with install and balance.
 1856015;ANCHEE;185/60R15;All-season;AC808;8;60.0;185/60R15 84H ANCHEE AC808 M+S 420/A/A;
 2154517;ILINK;215/45R17;All-season;THUNDER U09;16;80.0;215/45R17 91W XL ILINK THUNDER U09 UHP M+S 400/A/A;
 2254018;ILINK;225/40R18;All-season;THUNDER U09;8;85.0;225/40R18 92W XL ILINK THUNDER U09 UHP M+S 400/A/A;
