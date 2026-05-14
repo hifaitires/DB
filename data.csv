@@ -22,7 +22,7 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2454020;ANCHEE;245/40R20;All-season;AC818;0;105.0;245/40R20 99Y XL ANCHEE AC818 UHP M+S 480/A/A;
 2355520;ANCHEE;235/55R20;All-season;AC828;4;115.0;235/55R20 105V XL ANCHEE AC828 SUV M+S 520/A/A;
 2355518;ANCHEE;235/55R18;All-season;AC828;0;103.0;235/55R18 104W XL ANCHEE AC828 M+S 520/A/A;
-2354517;ANCHEE;235/45R17;All-season;AC818;4;94.0;235/45R17 97W XL ANCHEE AC818 UHP M+S 480/A/A;
+2354517;ANCHEE;235/45R17;All-season;AC818;0;94.0;235/45R17 97W XL ANCHEE AC818 UHP M+S 480/A/A;
 2256517;ANCHEE;225/65R17;All-season;AC828;0;100.0;225/65R17 102H ANCHEE AC828 SUV M+S 520/A/A;
 2255517;ANCHEE;225/55R17;All-season;AC818;0;90.0;225/55R17 101W XL ANCHEE AC818 UHP M+S 480/A/A;
 2156016;ANCHEE;215/60R16;All-season;AC808;2;83.0;215/60R16 95H ANCHEE AC808 M+S 420/A/A;Size: 215/60R16 # Speed rating / load index: 95H # Make: ANCHEE # Model: AC808 # Service Description: M+S (Mud and Snow) # Treadwear (420) Traction (A) Temperature (A) # Price: 330$ for the set of four tires. 430$ with install and balance.
@@ -155,7 +155,7 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2454519;ILINK;245/45R19;All-season;THUNDER U09;4;108.0;245/45R19 102W XL ILINK THUNDER U09 UHP M+S 400/A/A;
 2455018;ILINK;245/50R18;All-season;THUNDER U09;4;108.0;245/50R18 104W XL ILINK THUNDER U09 M+S 400/A/A;Size: 245/50R18 # Speed rating / load index: 104W XL # Make: ILINK # Model: THUNDER U09 # Service Description: M+S (Mud and Snow) # UTQG Ratings: Treadwear (400) Traction (A) Temperature (A) # Price: 440$ for the set of four tires. 540$ with install and balance for the four tires
 1956515;ILINK/ZMAX;195/65R15;All-season;L-GRIP66;4;72.0;195/65R15 91V ILINK/ZMAX L-GRIP66 M+S 420/A/A;
-2155517;ANCHEE;215/55R17;All-season;AC818;2;85.0;215/55R17 94W ANCHEE AC818 M+S 480/A/A;Size: 215/55R17 # Speed rating / load index: 94W # Make: ANCHEE # Model:  AC818 # Service Description: M+S (Mud and Snow) - All Season # Treadwear (480) Traction (A) Temperature (A) # Price: 350$ for the set of four tires. 450$ with install and balance.
+2155517;ANCHEE;215/55R17;All-season;AC818;0;85.0;215/55R17 94W ANCHEE AC818 M+S 480/A/A;Size: 215/55R17 # Speed rating / load index: 94W # Make: ANCHEE # Model:  AC818 # Service Description: M+S (Mud and Snow) - All Season # Treadwear (480) Traction (A) Temperature (A) # Price: 350$ for the set of four tires. 450$ with install and balance.
 2155017;ANCHEE;215/50R17;All-season;AC818;4;88.0;215/50R17 95W XL ANCHEE AC818 UHP M+S 480/A/A;
 2056516;ANCHEE;205/65R16;All-season;AC808;4;83.0;205/65R16 95H ANCHEE AC808 PCR M+S 420/A/A;Size: 205/65R16 # Speed rating / load index: 95H # Make: ANCHEE # Model: AC808 # Service Description: M+S (Mud and Snow) PCR (Passenger Car Radial) # UTQG Ratings: Treadwear (420) Traction (A) Temperature (A) # Price: 340$ for the set of four tires, and 440$ with install and balance
 1956015;ANCHEE;195/60R15;All-season;AC808;8;64.0;195/60R15 88H ANCHEE AC808 M+S 420/A/A;
@@ -195,14 +195,14 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2354019;ILINK;235/40R19;All-season;THUNDER U09;7;100.0;235/40R19 96W XL ILINK THUNDER U09 UHP M+S 400/A/A;Size: 235/40R19 # Make: ILINK # Model: THUNDER U09 # Load Index / Speed Rating: 96W XL # Service Description: M+S (Mud and Snow) UHP (Ultra-High Performance) # UTQG Ratings: Treadwear (400) Traction (A) Temperature (A) # Price: 400$ for the set of four tires. 500$ with install and balance for the four tires
 2356018;ANCHEE;235/60R18;All-season;AC828;4;108.0;235/60R18 107H XL ANCHEE AC828 SUV M+S 520/A/A;Size: 235/60R18 # Speed rating / load index: 107H XL # Make: ANCHEE # Model: AC828 # Service Description: M+S (Mud and Snow) SUV (Sport Utility Vehicle) # UTQG Ratings: Treadwear (520) Traction (A) Temperature (A) # Price: 440$ for the set of four tires. 540$ with install and balance for the four tires
 2454018;GREENTRAC;245/40R18;All-weather;SEASON MASTER;0;105.0;245/40R18 97W XL GREENTRAC SEASON MASTER 3PMS ALL-WEATHER 420/A/A;Size: 245/40R18 # Speed rating / load index: 97W XL # Make: GreenTrac # Model: Season Master # Service Description: Three-Peak Mountain Snowflake (3PMSF or 3PMS) # UTQG Ratings: Treadwear (420) Traction (A) Temperature (A) # Price: 420$ for the set of four tires. 520$ with install and balance for the four tires
-2254518;ILINK;225/45R18;All-season;THUNDER U09;6;91.0;225/45R18 95W XL ILINK THUNDER U09 UHP M+S 400/A/A;Size: 225/45R18 # Speed rating / load index: 95W XL # Make: ILINK # Model: THUNDER U09 # Service Description: M+S (Mud and Snow) UHP (Ultra-High Performance) # UTQG Ratings: Treadwear (400) Traction (A) Temperature (A) # Price: 360$ for the set of four tires. 460$ with install and balance for the four tires.
+2254518;ILINK;225/45R18;All-season;THUNDER U09;2;91.0;225/45R18 95W XL ILINK THUNDER U09 UHP M+S 400/A/A;Size: 225/45R18 # Speed rating / load index: 95W XL # Make: ILINK # Model: THUNDER U09 # Service Description: M+S (Mud and Snow) UHP (Ultra-High Performance) # UTQG Ratings: Treadwear (400) Traction (A) Temperature (A) # Price: 360$ for the set of four tires. 460$ with install and balance for the four tires.
 2156017;GreenTrac;215/60R17;All-weather;Season Master;4;96.0;215/60R17 100V XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;Size: 215/60R17 # Speed rating / load index: 100V XL # Make: GreenTrac # Model: Season Master # Service Description: Three-Peak Mountain Snowflake (3PMSF or 3PMS) # UTQG Ratings: Treadwear (420) Traction (A) Temperature (A) # Price: 400$ for the set of four tires. 500$ with install and balance for the four tires
 2354518;ANCHEE;235/45R18;All-season;AC818;8;97.0;235/45R18 98W XL ANCHEE AC818 UHP M+S 480/A/A;Size: 235/45R18 # Speed rating / load index: 98W XL # Make: ANCHEE # Model: AC818 # Service Description: M+S (Mud and Snow) PCR (Passenger Car Radial) # Treadwear (480) Traction (A) Temperature (A) # Price: 400$ for the set of four tires. 500$ with install and balance.
 2254518;ANCHEE;225/45R18;All-season;AC818;4;92.0;225/45R18 95W XL ANCHEE AC818 UHP M+S 480/A/A;Size: 225/45R18 # Speed rating / load index: 95W XL # Make: ANCHEE # Model: AC818 # Service Description: M+S (Mud and Snow) UHP (Ultra-High Performance) - All Season # UTQG Ratings: Treadwear (480) Traction (A) Temperature (A) # Price: 370$ for the set of four tires. 470$ with install and balance for the four tires.
 2254018;ANCHEE;225/40R18;All-season;AC818;4;88.0;225/40R18 92W XL ANCHEE AC818 M+S 480/A/A;Size: 225/40R18 # Speed rating / load index: 92W # Make: ANCHEE # Model: AC818 # Service Description: M+S (Mud and Snow) # Treadwear (480) Traction (A) Temperature (A) # Price: 350$ for the set of four tires, and 450$ with install and balance.
 1856015;ANCHEE;185/60R15;All-season;AC808;4;60.0;185/60R15 84H ANCHEE AC808 M+S 420/A/A;
 2154517;ILINK;215/45R17;All-season;THUNDER U09;16;80.0;215/45R17 91W XL ILINK THUNDER U09 UHP M+S 400/A/A;
-2254018;ILINK;225/40R18;All-season;THUNDER U09;6;85.0;225/40R18 92W XL ILINK THUNDER U09 UHP M+S 400/A/A;
+2254018;ILINK;225/40R18;All-season;THUNDER U09;2;85.0;225/40R18 92W XL ILINK THUNDER U09 UHP M+S 400/A/A;
 2756518;DOVROAD;275/65R18;All-season;URBAN PRIMOR YS716;4;135.0;275/65R18 116H DOVROAD URBAN PRIMOR YS716 SUV H/T M+S 580/A/A;
 2255018;ANCHEE;225/50R18;All-season;AC818;4;95.0;225/50R18 95W ANCHEE AC818 UHP M+S;
 2657017;ANCHEE;265/70R17;All-season;AC828;8;130.0;265/70R17 115H ANCHEE AC828 SUV M+S 520/A/A;
@@ -211,8 +211,8 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2553518;ILINK;255/35R18;All-season;THUNDER U09;2;98.0;255/35R18 94W XL ILINK THUNDER U09 UHP M+S 400/A/A;Size: 255/35R18 # Speed rating / load index: 94W XL  # Make: ILINK  # Model: THUNDER U09 # Service Description: M+S (Mud and Snow) UHP (Ultra-High Performance) # UTQG Ratings: Treadwear (400) Traction (A) Temperature (A) # Price: 400$ for the set of four tires. 500$ with install and balance
 2355018;ILINK;235/50R18;All-season;THUNDER U09;0;100.0;235/50R18 97V ILINK THUNDER U09 UHP M+S 400/A/A;
 2254517;NEXEN;225/45R17;All-season;N'PRIZ CX;16;110.0;225/45R17 91W NEXEN N'PRIZ CX M+S 480/A/A;Size: 225/45R17 # Speed rating / load index: 91W # Make: NEXEN  # Model:  N'PRIZ CX # Service Description: M+S (Mud and Snow) # Treadwear (480) Traction (A) Temperature (A) # Price: 440$ for the set of four tires. 540$ with install and balance.
-2256517;NEXEN;225/65R17;All-season;NEXEN ROADIAN GTX;4;135.0;225/65R17 106V XL NEXEN ROADIAN GTX M+S 680/A/A;
-2356517;NEXEN;235/65R17;All-season;ROADIAN GTX;4;140.0;235/65R17 104H NEXEN ROADIAN GTX M+S 600/A/A;
+2256517;NEXEN;225/65R17;All-season;NEXEN ROADIAN GTX;4;125.0;225/65R17 106V XL NEXEN ROADIAN GTX M+S 680/A/A;
+2356517;NEXEN;235/65R17;All-season;ROADIAN GTX;4;135.0;235/65R17 104H NEXEN ROADIAN GTX M+S 600/A/A;
 2256018;NEXEN;255/60R18;All-season;NEXEN ROADIAN;4;160.0;255/60R18 112HXL NEXEN ROADIAN GTX M+S 680/A/A;
 2055516;KAPSEN;205/55ZR16;All-season;H2000 SportMax XAS;0;75.0;205/55ZR16 91W KAPSEN H2000 SportMax XAS 420/A/A;
 2156017;ONYX;215/60R17;All-season;NY-HP187;4;92.0;215/60R17 96H ONYX NY-HP187 M+S;
@@ -257,4 +257,4 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2155517;ILINK;215/55R17;All-season;THUNDER U09;6;85.0;215/55R17 98W XL ILINK THUNDER U09 UHP M+S 400/A/A;
 2056016;SURETRAC;205/60R16;All-season;COMFORTRIDE GP;20;78.0;205/60R16 92V SURETRAC COMFORTRIDE GP PCR M+S 400/A/A;
 2156517;DOVROAD;215/65R17;All-season;URBAN PRIMOR YS716;4;95.0;215/65R17 99V DOVROAD URBAN PRIMOR YS716 SUV H/T M+S 580/A/A;
-2354518;NEXEN;235/45R18;All-season;N'FERA PRIMUS QX;4;130.0;235/45R18 98W XL NEXEN N'FERA PRIMUS QX 440/A/A;
+2354518;NEXEN;235/45R18;All-season;N'FERA PRIMUS QX;0;130.0;235/45R18 98W XL NEXEN N'FERA PRIMUS QX 440/A/A;
