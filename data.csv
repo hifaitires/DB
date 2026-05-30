@@ -213,7 +213,7 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 2254517;NEXEN;225/45R17;All-season;N'PRIZ CX;6;102.0;225/45R17 91W NEXEN N'PRIZ CX M+S 480/A/A;Size: 225/45R17 # Speed rating / load index: 91W # Make: NEXEN  # Model:  N'PRIZ CX # Service Description: M+S (Mud and Snow) # Treadwear (480) Traction (A) Temperature (A) # Price: 440$ for the set of four tires. 540$ with install and balance.
 2256517;NEXEN;225/65R17;All-season;NEXEN ROADIAN GTX;4;125.0;225/65R17 106V XL NEXEN ROADIAN GTX M+S 680/A/A;
 2356517;NEXEN;235/65R17;All-season;ROADIAN GTX;0;135.0;235/65R17 104H NEXEN ROADIAN GTX M+S 600/A/A;
-2256018;NEXEN;255/60R18;All-season;NEXEN ROADIAN;4;160.0;255/60R18 112HXL NEXEN ROADIAN GTX M+S 680/A/A;
+2556018;NEXEN;255/60R18;All-season;NEXEN ROADIAN;4;160.0;255/60R18 112HXL NEXEN ROADIAN GTX M+S 680/A/A;
 2055516;KAPSEN;205/55ZR16;All-season;H2000 SportMax XAS;0;75.0;205/55ZR16 91W KAPSEN H2000 SportMax XAS 420/A/A;
 2156017;ONYX;215/60R17;All-season;NY-HP187;2;92.0;215/60R17 96H ONYX NY-HP187 M+S;
 2454019;KAPSEN;245/40ZR19;All-season;S2000;4;105.0;245/40ZR19 98Y XL KAPSEN S2000 UHP;Size: 245/40ZR19 # Speed rating / load index: 98Y XL # Make: KAPSEN # Model: S2000 # Service Description: UHP (Ultra-High Performance) # Price: 420$ for the set of four tires. 520$ with install and balance.
@@ -287,3 +287,4 @@ sku;brand;size;tyre_type;pattern;quantity;price;description;service_description
 1756514;SURETRAC;175/65R14;All-season;COMFORTRIDE GP;12;58.0;175/65R14 82T SURETRAC COMFORTRIDE GP PCR M+S;
 2356517;DOVROAD;235/65R17;All-season;URBAN PRIMOR YS716;4;105.0;235/65R17 104V DOVROAD URBAN PRIMOR YS716 SUV H/T M+S 580/A/A;
 2756020;HILO;275/60R20;All-season;SPORT XV1;4;140.0;275/60R20 115H HILO SPORT XV1 (SAME AS ANCHEE AC828) SUV M+S 520/A/A;
+2156016;GreenTrac;215/60R16;All-weather;Season Master;4;86.0;215/60R16 99V XL GreenTrac Season Master 3PMSF ALL-WEATHER 420/A/A;
